@@ -1,0 +1,1 @@
+[08/10/2024 18:08:29.737 optimizer.py:122] `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
